@@ -1,0 +1,29 @@
+{
+  "name": "multi_fruit_basket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "multi-fruit_basket.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NgxumzaLG/multi_fruit_basket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NgxumzaLG/multi_fruit_basket/issues"
+  },
+  "homepage": "https://github.com/NgxumzaLG/multi_fruit_basket#readme",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  },
+  "dependencies": {
+    "pg": "^8.7.1"
+  }
+}
